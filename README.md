@@ -39,6 +39,6 @@ Type or paste a movie review — the app will predict whether it’s **positive*
 
 ```bash
 git clone https://github.com/yarjanlou/sentiment-analysis.git
-cd sentiment-analysis
+cd sentiment-analysis/sentiment-analyzer
 npm install
 npm run dev
